@@ -1,8 +1,10 @@
 September 16, 2026
 
-<!-- notify 1/2 · iEcOBQbD -->
-## Notification 1/2
-Round: Round 1
-To: marlene508@hotmail.com, groonwaldmn@msn.com
-At: 2026-09-16 15:48:23
-Id: iEcOBQbD
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: chuck.hazelton@hotmail.com, hemrajanip@yahoo.com
+At: 2026-09-16 15:48:31
+Id: yQI4lgje
